@@ -1,0 +1,17 @@
+{
+  "name": "@bitesite/eslint-config-bitesite",
+  "version": "0.0.1",
+  "description": "Default ESLint config for BiteSite projects.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "^7.30.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
