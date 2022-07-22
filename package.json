@@ -13,5 +13,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitesite/eslint-config-bitesite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bitesite/eslint-config-bitesite/issues"
+  },
+  "homepage": "https://github.com/bitesite/eslint-config-bitesite#readme"
 }
